@@ -627,37 +627,31 @@ The Python implementation, if included in this repository, is intended to reprod
 # Repository Structure
 
 ```text
-hall-8-carbon-sequestration/
+Hall-8-carbon-sequestration/
 │
-├── README.md
+├── Code/
+│   └── Hall8_Carbon_Sequestration_Analysis.ipynb
 │
-├── data/
-│   └── Hall8_Tree_Inventory.xlsx
+├── Data/
+│   └── Primary_data_Hall_8_iit_Kanpur - Copy of Tree data.csv
 │
-├── google_sheets/
-│   └── Hall8_Carbon_Analysis.xlsx
-│
-├── notebooks/
-│   └── carbon_sequestration_analysis.ipynb
-│
-├── src/
-│   └── carbon_sequestration.py
-│
-├── results/
+├── Results/
+│   ├── biomass_by_species.png
+│   ├── carbon_stock_by_species.png
+│   ├── co2_equivalent_by_species.png
+│   ├── google_sheet_python_validation.csv
+│   ├── project_summary.csv
 │   ├── species_carbon_stock.csv
-│   ├── sequestration_results.csv
-│   │
-│   └── figures/
-│       ├── biomass_by_species.png
-│       ├── carbon_stock_by_species.png
-│       ├── co2_sequestration_by_species.png
-│       └── growth_curve.png
+│   ├── species_distribution.png
+│   └── tree_level_carbon_analysis.csv
 │
-├── report/
-│   └── Final_Report.pdf
+├── Report/
+│   └── Final_report.pdf
 │
-└── presentation/
-    └── Presentation.pdf
+├── presentation/
+│   └── Presentation.pdf
+│
+└── README.md
 ```
 
 ### Directory Description
