@@ -1,0 +1,229 @@
+Block and pathway,General name,Scientific name,Trunks,Circumference (in cm),DBH (in cm),Adjusted DBH  (in cm),Hight (in M),Density,AGB  Stem,AGB Foliage Biomass,BGB (in Kg),TB (in Kg)
+Outer road,False Ashoka,Polyalthia longifolia,1,8,2.5465,2.5465,8,520,0.1773,0.0071,0.0369,0.2212
+Outer road,Mango,Mangifera indica,1,8,2.5465,2.5465,9,520,0.1989,0.0080,0.0414,0.2482
+Outer road,False Ashoka,Polyalthia longifolia,1,8,2.5465,2.5465,12,520,0.2633,0.0105,0.0548,0.3286
+Outer road,False Ashoka,Polyalthia longifolia,1,8,2.5465,2.5465,11,520,0.2419,0.0097,0.0503,0.3019
+BW Block D-Mess,Guava,Psidium guajava,3,8,2.5465,3.3514,9,670,0.4353,0.0174,0.0906,0.5433
+BW Block C-D,Guava,Psidium guajava,4,8,2.5465,3.6013,11,670,0.6093,0.0244,0.1267,0.7605
+BW Block B-C,Coromandel Ailanto,Ailanthus excelsa,2,10,3.1831,3.7854,6,540,0.3011,0.0120,0.0626,0.3758
+Mess front,Bamboo,Bambusa sp.,37,10,3.1831,3.1831,16,600,0.6198,0.0248,0.1289,0.7736
+Outer road,Mango,Mangifera indica,1,10,3.1831,3.1831,11,520,0.3739,0.0150,0.0778,0.4667
+BW Block A-B,Mango,Mangifera indica,10,10,3.1831,5.6604,11,520,1.1503,0.0460,0.2393,1.4355
+Outer road,False Ashoka,Polyalthia longifolia,1,10,3.1831,3.1831,10,520,0.3407,0.0136,0.0709,0.4252
+Outer road,False Ashoka,Polyalthia longifolia,1,10,3.1831,3.1831,13,520,0.4402,0.0176,0.0916,0.5493
+Outer road,False Ashoka,Polyalthia longifolia,1,10,3.1831,3.1831,13,520,0.4402,0.0176,0.0916,0.5493
+BW Block B-C,Guava,Psidium guajava,2,10,3.1831,3.7854,12,670,0.7312,0.0292,0.1521,0.9125
+BW Block B-C,guava,Psidium guajava,5,10,3.1831,4.7598,12,670,1.1434,0.0457,0.2378,1.4270
+BW Block A-B,Coromandel Ailanto,Ailanthus excelsa,2,12,3.8197,4.5424,5.5,540,0.3949,0.0158,0.0821,0.4928
+BW Block A-B,Coromandel Ailanto,Ailanthus excelsa,3,12,3.8197,5.0270,6,540,0.5239,0.0210,0.1090,0.6539
+Outer road,mango,Mangifera indica,1,12,3.8197,3.8197,12,520,0.5811,0.0232,0.1209,0.7252
+BW Block C-D,Mango,Mangifera indica,2,12,3.8197,4.5424,11,520,0.7486,0.0299,0.1557,0.9343
+Outer road,False Ashoka,Polyalthia longifolia,1,12,3.8197,3.8197,14,520,0.6754,0.0270,0.1405,0.8429
+Outer road,False Ashoka,Polyalthia longifolia,1,12,3.8197,3.8197,9,520,0.4388,0.0176,0.0913,0.5477
+BW Block F - E,Guava ,Psidium guajava,5,12,3.8197,5.7118,9,670,1.2326,0.0493,0.2564,1.5383
+Outer road,False Ashoka,Polyalthia longifolia,1,14,4.4563,4.4563,11,520,0.7212,0.0288,0.1500,0.9000
+Outer road,False Ashoka,Polyalthia longifolia,1,14,4.4563,4.4563,10,520,0.6571,0.0263,0.1367,0.8201
+BW Block F - E,Guava,Psidium guajava,3,14,4.4563,5.8649,8,670,1.1570,0.0463,0.2406,1.4439
+BW Block H - G,Guava,Psidium guajava,4,14,4.4563,6.3022,12,670,1.9777,0.0791,0.4114,2.4681
+Outer road,mango,Mangifera indica,1,15,4.7746,4.7746,11,520,0.8251,0.0330,0.1716,1.0298
+BW Block A-B,Jamun,Syzygium cumini,3,15,4.7746,6.2838,12,560,1.6507,0.0660,0.3433,2.0600
+BW Block C-D,Sagwan/Teek,Tectona grandis,1,15,4.7746,4.7746,11,550,0.8716,0.0349,0.1813,1.0877
+BW Block E-Mess,Neem,Azadirachta indica,2,16,5.0930,6.0566,9,690,1.4223,0.0569,0.2958,1.7750
+Mess front,Bamboo,Bambusa sp.,30,16,5.0930,5.0930,14,600,1.3618,0.0545,0.2833,1.6995
+BW Block A-B,Sagwan/Teek,Tectona grandis,1,16,5.0930,5.0930,8,550,0.7245,0.0290,0.1507,0.9042
+BW Block C-D,Neem,Azadirachta indica,2,18,5.7296,6.8137,9,690,1.7899,0.0716,0.3723,2.2338
+Outer road,gulmohar ,Delonix regia,1,18,5.7296,5.7296,8,400,0.6682,0.0267,0.1390,0.8339
+BW Block C-D,Mango,Mangifera indica,2,18,5.7296,6.8137,12,520,1.7983,0.0719,0.3741,2.2443
+BW Block C-D,Mango ,Mangifera indica,2,18,5.7296,6.8137,11,520,1.6519,0.0661,0.3436,2.0616
+Outer road,Sapodilla,Manilkara zapota,1,18,5.7296,5.7296,8,820,1.3464,0.0539,0.2800,1.6803
+Mess front,mulberry,Morus alba,3,18,5.7296,7.5405,8,550,1.5585,0.0623,0.3242,1.9450
+BW Block A-B,Mulberry,Morus alba,4,18,5.7296,8.1028,6,550,1.3544,0.0542,0.2817,1.6903
+Outer road,False Ashoka,Polyalthia longifolia,1,18,5.7296,5.7296,13,520,1.3864,0.0555,0.2884,1.7303
+Outer road,False Ashoka,Polyalthia longifolia,1,18,5.7296,5.7296,8,520,0.8632,0.0345,0.1795,1.0773
+BW Block A-B,Guava,Psidium guajava,6,18,5.7296,8.9673,12,670,3.9368,0.1575,0.8188,4.9131
+BW Block A-B,Guava,Psidium guajava,6,18,5.7296,8.9673,10,670,3.2950,0.1318,0.6854,4.1122
+Outer road,Neem,Azadirachta indica,1,19,6.0479,6.0479,8,690,1.2643,0.0506,0.2630,1.5778
+BW Block C-D,Neem,Azadirachta indica,2,19,6.0479,7.1922,10,690,2.2046,0.0882,0.4586,2.7513
+BW Block F - E,Mango,Mangifera indica,2,19,6.0479,7.1922,11,520,1.8358,0.0734,0.3818,2.2911
+Outer road,False Ashoka,Polyalthia longifolia,1,19,6.0479,6.0479,8,520,0.9593,0.0384,0.1995,1.1972
+Outer road,Sagwan/Teek,Tectona grandis,1,19,6.0479,6.0479,9,550,1.1367,0.0455,0.2364,1.4186
+Outer road,False Ashoka,Polyalthia longifolia,1,22,7.0028,7.0028,14,520,2.2051,0.0882,0.4587,2.7520
+Outer road,False Ashoka,Polyalthia longifolia,1,22,7.0028,7.0028,12,520,1.8971,0.0759,0.3946,2.3676
+Outer road,False Ashoka,Polyalthia longifolia,1,22,7.0028,7.0028,14,520,2.2051,0.0882,0.4587,2.7520
+Outer road,False Ashoka,Polyalthia longifolia,1,22,7.0028,7.0028,12,520,1.8971,0.0759,0.3946,2.3676
+BW Block C-D,Sagwan/Teek,Tectona grandis,1,22,7.0028,7.0028,9,550,1.5133,0.0605,0.3148,1.8886
+BW Block D-Mess,Coromandel Ailanto,Ailanthus excelsa,2,23,7.3211,8.7063,6,540,1.5306,0.0612,0.3184,1.9102
+Outer road,False Ashoka,Polyalthia longifolia,1,23,7.3211,7.3211,14,520,2.4050,0.0962,0.5002,3.0014
+Outer road,False Ashoka,Polyalthia longifolia,1,23,7.3211,7.3211,10,520,1.7318,0.0693,0.3602,2.1613
+Outer road,False Ashoka,Polyalthia longifolia,1,23,7.3211,7.3211,11,520,1.9006,0.0760,0.3953,2.3719
+Outer road,False Ashoka,Polyalthia longifolia,1,23,7.3211,7.3211,10,520,1.7318,0.0693,0.3602,2.1613
+Outer road,False Ashoka,Polyalthia longifolia,1,23,7.3211,7.3211,12,520,2.0691,0.0828,0.4304,2.5822
+Outer road,False Ashoka,Polyalthia longifolia,1,23,7.3211,7.3211,14,520,2.4050,0.0962,0.5002,3.0014
+BW Block E-Mess,Kathal,Artocarpus heterophyllus,3,24,7.6394,10.0541,10,520,3.2167,0.1287,0.6691,4.0144
+Mess front,Neem,Azadirachta indica,2,24,7.6394,9.0849,9,690,3.1384,0.1255,0.6528,3.9167
+BW Block A-B,Mango,Mangifera indica,3,24,7.6394,10.0541,12,520,3.8431,0.1537,0.7994,4.7962
+Outer road,False Ashoka,Polyalthia longifolia,1,24,7.6394,7.6394,13,520,2.4310,0.0972,0.5056,3.0338
+Outer road,False Ashoka,Polyalthia longifolia,1,24,7.6394,7.6394,13,520,2.4310,0.0972,0.5056,3.0338
+Outer road,False Ashoka,Polyalthia longifolia,1,24,7.6394,7.6394,10,520,1.8818,0.0753,0.3914,2.3485
+Outer road,False Ashoka,Polyalthia longifolia,1,24,7.6394,7.6394,10,520,1.8818,0.0753,0.3914,2.3485
+Outer road,False Ashoka,Polyalthia longifolia,1,24,7.6394,7.6394,8,520,1.5135,0.0605,0.3148,1.8889
+Mess front,Jamun,Syzygium cumini,1,24,7.6394,7.6394,11,560,2.2201,0.0888,0.4618,2.7707
+BW Block C-D,Sagwan/Teek,Tectona grandis,1,24,7.6394,7.6394,8,550,1.5987,0.0639,0.3325,1.9951
+BW Block H - G,Sagwan/Teek,Tectona grandis,1,24,7.6394,7.6394,9,550,1.7934,0.0717,0.3730,2.2382
+Outer road,Coromandel Ailanto,Ailanthus excelsa,3,25,7.9577,10.4730,8,540,2.9069,0.1163,0.6046,3.6278
+BW Block F - E,Neem,Azadirachta indica,2,25,7.9577,9.4634,9,690,3.3987,0.1359,0.7069,4.2416
+Outer road,Neem,Azadirachta indica,3,25,7.9577,10.4730,10,690,4.5910,0.1836,0.9549,5.7296
+Outer road,False Ashoka,Polyalthia longifolia,1,25,7.9577,7.9577,13,520,2.6326,0.1053,0.5476,3.2855
+Outer road,False Ashoka,Polyalthia longifolia,1,25,7.9577,7.9577,12,520,2.4348,0.0974,0.5064,3.0386
+BW Block A-B,waterberries,Syzygium genus,2,25,7.9577,9.4634,7,600,2.3203,0.0928,0.4826,2.8958
+BW Block F - E,Neem,Azadirachta indica,2,26,8.2761,9.8419,11,690,4.4630,0.1785,0.9283,5.5698
+BW Block D-Mess,Mango,Mangifera indica,2,26,8.2761,9.8419,8,520,2.4817,0.0993,0.5162,3.0971
+Outer road,False Ashoka,Polyalthia longifolia,1,26,8.2761,8.2761,10,520,2.2000,0.0880,0.4576,2.7456
+Outer road,False Ashoka,Polyalthia longifolia,1,26,8.2761,8.2761,13,520,2.8421,0.1137,0.5912,3.5469
+Outer road,False Ashoka,Polyalthia longifolia,1,26,8.2761,8.2761,9,520,1.9850,0.0794,0.4129,2.4773
+Outer road,False Ashoka,Polyalthia longifolia,1,26,8.2761,8.2761,9,520,1.9850,0.0794,0.4129,2.4773
+Outer road,Neem,Azadirachta indica,1,28,8.9127,8.9127,9,690,3.0233,0.1209,0.6289,3.7731
+BW Block D-Mess,Neem,Azadirachta indica,2,28,8.9127,10.5990,12,690,5.6148,0.2246,1.1679,7.0072
+BW Block C-D,Taad,Borassus flabellifer,1,28,8.9127,8.9127,17,790,6.4185,0.2567,1.3350,8.0103
+BW Block E-Mess,Mango,Mangifera indica,1,28,8.9127,8.9127,12,520,3.0376,0.1215,0.6318,3.7909
+BW Hall office - Block H,Mango,Mangifera indica,1,28,8.9127,8.9127,9,520,2.2940,0.0918,0.4771,2.8629
+BW Block H - G,Mango ,Mangifera indica,2,28,8.9127,10.5990,10,520,3.5658,0.1426,0.7417,4.4501
+BW Block E-Mess,Mango,Mangifera indica,3,28,8.9127,11.7297,12,520,5.1924,0.2077,1.0800,6.4801
+BW Block A-B,Mulberry,Morus alba,2,28,8.9127,10.5990,7,550,2.6592,0.1064,0.5531,3.3186
+BW Block A-B,Mulberry,Morus alba,2,28,8.9127,10.5990,5,550,1.9148,0.0766,0.3983,2.3897
+BW Block F - E,Mulberry,Morus alba,3,28,8.9127,11.7297,6,550,2.7883,0.1115,0.5800,3.4798
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,8,520,2.0449,0.0818,0.4253,2.5520
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,14,520,3.5308,0.1412,0.7344,4.4064
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,8,520,2.0449,0.0818,0.4253,2.5520
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,15,520,3.7767,0.1511,0.7856,4.7134
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,11,520,2.7903,0.1116,0.5804,3.4823
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,11,520,2.7903,0.1116,0.5804,3.4823
+Outer road,False Ashoka,Polyalthia longifolia,1,28,8.9127,8.9127,11,520,2.7903,0.1116,0.5804,3.4823
+Outer road,False Ashoka,Polyalthia longifolia,1,29,9.2310,9.2310,15,520,4.0445,0.1618,0.8413,5.0475
+Outer road,False Ashoka,Polyalthia longifolia,1,29,9.2310,9.2310,8,520,2.1899,0.0876,0.4555,2.7329
+Mess front,Guava,Psidium guajava,4,29,9.2310,13.0546,8,670,5.5163,0.2207,1.1474,6.8844
+BW Block E-Mess,Neem,Azadirachta indica,1,30,9.5493,9.5493,9,690,3.4592,0.1384,0.7195,4.3171
+BW Block D-Mess,Neem,Azadirachta indica,3,30,9.5493,12.5676,11,690,7.1923,0.2877,1.4960,8.9760
+BW Block C-D,Sisam,Dalbergia sissoo,2,30,9.5493,11.3561,9,630,4.4393,0.1776,0.9234,5.5403
+Outer road,Mango ,Mangifera indica,1,30,9.5493,9.5493,11,520,3.1926,0.1277,0.6641,3.9843
+Outer road,False Ashoka,Polyalthia longifolia,1,30,9.5493,9.5493,11,520,3.1926,0.1277,0.6641,3.9843
+Outer road,False Ashoka,Polyalthia longifolia,1,30,9.5493,9.5493,13,520,3.7579,0.1503,0.7816,4.6899
+Outer road,False Ashoka,Polyalthia longifolia,1,30,9.5493,9.5493,10,520,2.9090,0.1164,0.6051,3.6304
+Outer road,False Ashoka,Polyalthia longifolia,1,30,9.5493,9.5493,8,520,2.3397,0.0936,0.4867,2.9199
+Outer road,Jamun,Syzygium cumini,1,30,9.5493,9.5493,10,560,3.1272,0.1251,0.6505,3.9027
+Outer road,jamun,Syzygium cumini,1,30,9.5493,9.5493,8,560,2.5152,0.1006,0.5232,3.1389
+Outer road,False Ashoka,Polyalthia longifolia,1,31,9.8676,9.8676,13,520,4.0063,0.1603,0.8333,4.9999
+Outer road,False Ashoka,Polyalthia longifolia,1,31,9.8676,9.8676,14,520,4.3068,0.1723,0.8958,5.3749
+BW Block F - E,Jamun,Syzygium cumini,3,31,9.8676,12.9865,12,560,6.8087,0.2723,1.4162,8.4973
+Outer road,Neem,Azadirachta indica,1,32,10.1859,10.1859,11,690,4.7725,0.1909,0.9927,5.9561
+Outer road,Neem,Azadirachta indica,2,32,10.1859,12.1132,10,690,6.0989,0.2440,1.2686,7.6114
+BW Block D-Mess,Sisam,Dalbergia sissoo,3,32,10.1859,13.4054,9,630,6.1371,0.2455,1.2765,7.6591
+Outer road,mango,Mangifera indica,4,32,10.1859,14.4051,8,520,5.2200,0.2088,1.0858,6.5146
+BW Block E-Mess,Mulberry,Morus alba,3,32,10.1859,13.4054,5,550,3.0287,0.1211,0.6300,3.7798
+BW Hall office - Block H,Kadam,Neolamarckia cadamba,2,32,10.1859,12.1132,11,560,5.4596,0.2184,1.1356,6.8136
+Outer road,False Ashoka,Polyalthia longifolia,1,32,10.1859,10.1859,11,520,3.6212,0.1448,0.7532,4.5192
+Outer road,False Ashoka,Polyalthia longifolia,1,32,10.1859,10.1859,8,520,2.6538,0.1062,0.5520,3.3119
+Outer road,False Ashoka,Polyalthia longifolia,2,32,10.1859,12.1132,9,520,4.1754,0.1670,0.8685,5.2108
+Outer road,False Ashoka,Polyalthia longifolia,2,32,10.1859,12.1132,15,520,6.8741,0.2750,1.4298,8.5789
+BW Block H - G,Jamun,Syzygium cumini,2,32,10.1859,12.1132,12,560,5.9436,0.2377,1.2363,7.4176
+Outer road,Neem,Azadirachta indica,1,34,10.8225,10.8225,8,690,3.9369,0.1575,0.8189,4.9133
+BW Block H - G,Neem,Azadirachta indica,2,34,10.8225,12.8702,10,690,6.8651,0.2746,1.4279,8.5676
+BW Block F - E,Neem,Azadirachta indica,4,34,10.8225,15.3054,12,690,11.5035,0.4601,2.3927,14.3563
+BW Block C-D,Amaltash ,Cassia fistula,2,34,10.8225,12.8702,7,700,4.9154,0.1966,1.0224,6.1344
+BW Block D-Mess,Sisam,Dalbergia sissoo,2,34,10.8225,12.8702,9,630,5.6679,0.2267,1.1789,7.0736
+Outer road,False Ashoka,Polyalthia longifolia,1,34,10.8225,10.8225,14,520,5.1578,0.2063,1.0728,6.4370
+Outer road,False Ashoka,Polyalthia longifolia,1,34,10.8225,10.8225,10,520,3.7140,0.1486,0.7725,4.6351
+Outer road,False Ashoka,Polyalthia longifolia,1,34,10.8225,10.8225,8,520,2.9872,0.1195,0.6213,3.7280
+Outer road,False Ashoka,Polyalthia longifolia,1,34,10.8225,10.8225,12,520,4.4374,0.1775,0.9230,5.5378
+Outer road,False Ashoka,Polyalthia longifolia,1,34,10.8225,10.8225,12,520,4.4374,0.1775,0.9230,5.5378
+Outer road,False Ashoka,Polyalthia longifolia,1,34,10.8225,10.8225,11,520,4.0761,0.1630,0.8478,5.0870
+Mess front,Guava ,Psidium guajava,5,34,10.8225,16.1835,12,670,12.4639,0.4986,2.5925,15.5549
+BW Block D-Mess,Jamun,Syzygium cumini,2,34,10.8225,12.8702,12,560,6.6902,0.2676,1.3916,8.3494
+BW Block H - G,Sagwan/Teek,Tectona grandis,1,34,10.8225,10.8225,10,550,3.9230,0.1569,0.8160,4.8959
+Mess front,water caltrop,Trapa natans,1,34,10.8225,10.8225,8,570,3.2672,0.1307,0.6796,4.0775
+Mess front,Neem,Azadirachta indica,2,35,11.1408,13.2488,9,690,6.5548,0.2622,1.3634,8.1804
+BW Block D-Mess,Neem,Azadirachta indica,3,35,11.1408,14.6622,9,690,7.9890,0.3196,1.6617,9.9703
+BW Block B-C,Neem,Azadirachta indica,4,35,11.1408,15.7555,9,690,9.1931,0.3677,1.9122,11.4730
+Outer road,False Ashoka,Polyalthia longifolia,1,35,11.1408,11.1408,14,520,5.4581,0.2183,1.1353,6.8117
+Outer road,False Ashoka,Polyalthia longifolia,2,35,11.1408,13.2488,11,520,6.0495,0.2420,1.2583,7.5498
+Outer road,False Ashoka,Polyalthia longifolia,1,36,11.4592,11.4592,9,520,3.7466,0.1499,0.7793,4.6758
+Outer road,False Ashoka,Polyalthia longifolia,1,36,11.4592,11.4592,11,520,4.5572,0.1823,0.9479,5.6874
+Outer road,False Ashoka,Polyalthia longifolia,1,36,11.4592,11.4592,9,520,3.7466,0.1499,0.7793,4.6758
+Outer road,False Ashoka,Polyalthia longifolia,1,36,11.4592,11.4592,8,520,3.3398,0.1336,0.6947,4.1680
+Outer road,False Ashoka,Polyalthia longifolia,1,37,11.7775,11.7775,11,520,4.8076,0.1923,1.0000,5.9999
+Outer road,False Ashoka,Polyalthia longifolia,1,37,11.7775,11.7775,8,520,3.5232,0.1409,0.7328,4.3970
+BW Block E-Mess,Neem,Azadirachta indica,3,38,12.0958,15.9189,11,690,11.4095,0.4564,2.3732,14.2391
+Outer road,False Ashoka,Polyalthia longifolia,1,38,12.0958,12.0958,8,520,3.7115,0.1485,0.7720,4.6320
+Outer road,False Ashoka,Polyalthia longifolia,1,38,12.0958,12.0958,10,520,4.6146,0.1846,0.9598,5.7590
+Outer road,False Ashoka,Polyalthia longifolia,1,38,12.0958,12.0958,15,520,6.8549,0.2742,1.4258,8.5549
+BW Block E-Mess,Neem,Azadirachta indica,2,40,12.7324,15.1415,12,690,11.2642,0.4506,2.3430,14.0577
+Outer road,Sisham,Dalbergia sissoo,1,40,12.7324,12.7324,9,630,5.5500,0.2220,1.1544,6.9265
+BW Block H - G,Mango,Mangifera indica,2,40,12.7324,15.1415,9,520,6.4545,0.2582,1.3425,8.0552
+Outer road,mango ,Mangifera indica,2,40,12.7324,15.1415,11,520,7.8509,0.3140,1.6330,9.7980
+Outer road,Mulberry,Morus alba,3,40,12.7324,16.7568,4,550,3.7656,0.1506,0.7833,4.6995
+Outer road,False Ashoka,Polyalthia longifolia,1,40,12.7324,12.7324,14,520,7.0834,0.2833,1.4733,8.8400
+Outer road,False Ashoka,Polyalthia longifolia,1,40,12.7324,12.7324,8,520,4.1024,0.1641,0.8533,5.1198
+Outer road,False Ashoka,Polyalthia longifolia,1,40,12.7324,12.7324,11,520,5.5978,0.2239,1.1643,6.9861
+Outer road,False Ashoka,Polyalthia longifolia,1,40,12.7324,12.7324,13,520,6.5891,0.2636,1.3705,8.2232
+Outer road,False Ashoka,Polyalthia longifolia,2,40,12.7324,15.1415,10,520,7.1535,0.2861,1.4879,8.9276
+Outer road,Neem,Azadirachta indica,1,42,13.3690,13.3690,12,690,8.8340,0.3534,1.8375,11.0249
+BW Block B-C,Mango,Mangifera indica,4,42,13.3690,18.9066,12,520,13.1846,0.5274,2.7424,16.4544
+Outer road,False Ashoka,Polyalthia longifolia,1,43,13.6873,13.6873,11,520,6.4466,0.2579,1.3409,8.0453
+Outer road,False Ashoka,Polyalthia longifolia,1,43,13.6873,13.6873,15,520,8.7256,0.3490,1.8149,10.8895
+Outer road,False Ashoka,Polyalthia longifolia,1,43,13.6873,13.6873,8,520,4.7244,0.1890,0.9827,5.8960
+Outer road,False Ashoka,Polyalthia longifolia,1,43,13.6873,13.6873,8,520,4.7244,0.1890,0.9827,5.8960
+Outer road,False Ashoka,Polyalthia longifolia,1,43,13.6873,13.6873,14,520,8.1574,0.3263,1.6967,10.1804
+Outer road,False Ashoka,Polyalthia longifolia,1,44,14.0056,14.0056,15,520,9.1260,0.3650,1.8982,11.3893
+Outer road,False Ashoka,Polyalthia longifolia,2,44,14.0056,16.6556,12,520,10.2944,0.4118,2.1412,12.8474
+BW Block E-Mess,Jamun,Syzygium cumini,2,44,14.0056,16.6556,12,560,11.0666,0.4427,2.3018,13.8111
+Outer road,Neem,Azadirachta indica,1,45,14.3239,14.3239,8,690,6.8043,0.2722,1.4153,8.4917
+BW Block C-D,Taad,Borassus flabellifer,1,45,14.3239,14.3239,13,790,12.4722,0.4989,2.5942,15.5653
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,14,520,8.9143,0.3566,1.8542,11.1251
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,15,520,9.5353,0.3814,1.9833,11.9000
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,14,520,8.9143,0.3566,1.8542,11.1251
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,15,520,9.5353,0.3814,1.9833,11.9000
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,9,520,5.7917,0.2317,1.2047,7.2281
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,11,520,7.0448,0.2818,1.4653,8.7919
+Outer road,False Ashoka,Polyalthia longifolia,1,45,14.3239,14.3239,15,520,9.5353,0.3814,1.9833,11.9000
+BW Block B-C,Jamun ,Syzygium cumini,2,45,14.3239,17.0341,12,560,11.5628,0.4625,2.4051,14.4304
+Outer road,Jamun,Syzygium cumini,4,45,14.3239,20.2571,10,560,13.5733,0.5429,2.8233,16.9395
+BW Block F - E,Neem,Azadirachta indica,4,46,14.6423,20.7073,10,690,17.3702,0.6948,3.6130,21.6780
+Outer road,False Ashoka,Polyalthia longifolia,1,46,14.6423,14.6423,13,520,8.6559,0.3462,1.8004,10.8025
+Outer road,False Ashoka,Polyalthia longifolia,1,46,14.6423,14.6423,15,520,9.9533,0.3981,2.0703,12.4217
+Outer road,False Ashoka,Polyalthia longifolia,1,46,14.6423,14.6423,11,520,7.3536,0.2941,1.5295,9.1773
+BW Block D-Mess,Neem,Azadirachta indica,2,47,14.9606,17.7912,10,690,12.9161,0.5166,2.6866,16.1193
+Outer road,Neem,Azadirachta indica,3,48,15.2789,20.1081,8,690,13.1926,0.5277,2.7441,16.4643
+Outer road,Sisham,Dalbergia sissoo,1,48,15.2789,15.2789,9,630,7.9224,0.3169,1.6479,9.8872
+Outer road,False Ashoka,Polyalthia longifolia,1,48,15.2789,15.2789,14,520,10.1112,0.4044,2.1031,12.6187
+Outer road,False Ashoka,Polyalthia longifolia,1,48,15.2789,15.2789,14,520,10.1112,0.4044,2.1031,12.6187
+BW Block E-Mess,Jamun,Syzygium cumini,4,48,15.2789,21.6076,9,560,13.8912,0.5556,2.8894,17.3362
+Outer road,Neem,Azadirachta indica,2,50,15.9155,18.9268,9,690,13.1501,0.5260,2.7352,16.4113
+Outer road,False Ashoka,Polyalthia longifolia,1,50,15.9155,15.9155,15,520,11.7126,0.4685,2.4362,14.6173
+Outer road,False Ashoka,Polyalthia longifolia,1,50,15.9155,15.9155,11,520,8.6534,0.3461,1.7999,10.7994
+Outer road,False Ashoka,Polyalthia longifolia,1,53,16.8704,16.8704,9,520,7.9712,0.3188,1.6580,9.9481
+Outer road,False Ashoka,Polyalthia longifolia,1,53,16.8704,16.8704,8,520,7.1056,0.2842,1.4780,8.8678
+Outer road,False Ashoka,Polyalthia longifolia,1,54,17.1887,17.1887,13,520,11.8369,0.4735,2.4621,14.7725
+Outer road,Dead neem,Azadirachta indica,1,55,17.5070,17.5070,8,680,9.9246,0.3970,2.0643,12.3858
+BW Block D-Mess,Neem,Azadirachta indica,6,55,17.5070,27.4000,11,690,32.9322,1.3173,6.8499,41.0993
+Outer road,False Ashoka,Polyalthia longifolia,1,55,17.5070,17.5070,9,520,8.5689,0.3428,1.7823,10.6940
+Outer road,False Ashoka,Polyalthia longifolia,1,55,17.5070,17.5070,11,520,10.4228,0.4169,2.1679,13.0077
+BW Block E-Mess,Jamun,Syzygium cumini,4,55,17.5070,24.7587,10,560,20.0818,0.8033,4.1770,25.0621
+Outer road,Coromandel Ailanto,Ailanthus excelsa,4,60,19.0986,27.0095,10,540,22.9695,0.9188,4.7777,28.6659
+BW Block B-C,Neem,Azadirachta indica,2,60,19.0986,22.7122,11,690,22.8322,0.9133,4.7491,28.4946
+BW Block A-B,Taad,Borassus flabellifer,1,60,19.0986,19.0986,16,790,26.7815,1.0713,5.5706,33.4233
+Outer road,False Ashoka,Polyalthia longifolia,1,60,19.0986,19.0986,8,520,9.0524,0.3621,1.8829,11.2974
+BW Block D-Mess,Neem,Azadirachta indica,2,62,19.7352,23.4693,8,690,17.8387,0.7135,3.7104,22.2626
+BW Block D-Mess,Jamun,Syzygium cumini,3,62,19.7352,25.9730,10,560,22.0492,0.8820,4.5862,27.5175
+BW Block C-D,Dead Sisam,Dalbergia sissoo,3,65,20.6901,27.2298,9,630,24.4747,0.9790,5.0907,30.5444
+BW Block E-Mess,Mango,Mangifera indica,1,65,20.6901,20.6901,12,520,15.7212,0.6288,3.2700,19.6201
+BW Block A-B,Sisham,Dalbergia sissoo,4,67,21.3268,30.1606,9,630,29.8799,1.1952,6.2150,37.2901
+BW Block B-C,Taad,Borassus flabellifer,1,70,22.2817,22.2817,14,790,31.7625,1.2705,6.6066,39.6396
+BW Block B-C,Taad,Borassus flabellifer,1,70,22.2817,22.2817,15,790,33.9750,1.3590,7.0668,42.4008
+BW Block B-C,Dead Sisam,Dalbergia sissoo,2,80,25.4648,30.2829,9,630,30.1169,1.2047,6.2643,37.5859
+Outer road,Pipal,Ficus religiosa,1,80,25.4648,25.4648,14,440,23.2831,0.9313,4.8429,29.0573
+BW Block E-Mess,Kadam,Neolamarckia cadamba,1,80,25.4648,25.4648,12,560,25.3468,1.0139,5.2721,31.6328
+Outer road,Jamun,Syzygium cumini,1,85,27.0563,27.0563,11,560,26.2081,1.0483,5.4513,32.7077
+BW Block E-Mess,Sagwan/Teek,Tectona grandis,2,86,27.3747,32.5541,12,550,40.2251,1.6090,8.3668,50.2009
+Outer road,Taad,Borassus flabellifer,1,110,35.0141,35.0141,12,790,66.0301,2.6412,13.7343,82.4056
+Outer road,pipal,Ficus religiosa,6,110,35.0141,54.8000,16,440,118.3984,4.7359,24.6269,147.7612
+Outer road,pipal,Ficus religiosa,6,150,47.7465,74.7273,12,440,163.8088,6.5524,34.0722,204.4334
